@@ -1,6 +1,6 @@
 //
 //  AppDelegate.h
-//  32 bit only iOS 13.5 Jailbreak
+//  32 and 64 bits only iOS 13.5 Jailbreak
 //
 //  Created by PaladinStore on 2020-22-7.
 //  Copyright © 2020 PalandinStore. All rights reserved.
