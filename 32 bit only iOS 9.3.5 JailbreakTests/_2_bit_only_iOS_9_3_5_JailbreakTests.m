@@ -1,18 +1,18 @@
 //
-//  _2_bit_only_iOS_9_3_5_JailbreakTests.m
-//  32 bit only iOS 9.3.5 JailbreakTests
+//  _2_bit_only_iOS_13_5_JailbreakTests.m
+//  32 and 64 bits only iOS 13.5 JailbreakTests
 //
-//  Created by Brandon Withall on 2017-02-14.
-//  Copyright © 2017 Brando1235703. All rights reserved.
+//  Created by PaladinStore on 2020-22-7.
+//  Copyright © 2020 PaladinStore. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface _2_bit_only_iOS_9_3_5_JailbreakTests : XCTestCase
+@interface _2_bit_only_iOS_13_5_JailbreakTests : XCTestCase
 
 @end
 
-@implementation _2_bit_only_iOS_9_3_5_JailbreakTests
+@implementation _2_bit_only_iOS_13_5_JailbreakTests
 
 - (void)setUp {
     [super setUp];
