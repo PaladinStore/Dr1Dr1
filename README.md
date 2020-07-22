@@ -2,16 +2,9 @@
 
 [Dr1Dr1 Page]()
 
-A "incomplete" iOS jailbreak for 32-bit devices ( created by [PaladinStore](https://github.com/PaladinStore) )
+A "Beta" iOS jailbreak for 32 and 64 bits devices ( created by [PaladinStore](https://github.com/PaladinStore) )
 
 Lets make a 32-Bit iOS 9.3.5 Jailbreak for all 32-Bit Devices
-
-## Nalu meaning:
-
-Nalu is the Hawaiian word for wave or surging surf, 
-and the hapa-Hawaiian saying, to “Nalu it” means “go with the flow.” 
-As every person who learns to swim in the ocean knows, 
-you don't fight the waves, you ride them.
 
 ## Already Supported Devices: (StoryBoard)
 
@@ -37,7 +30,7 @@ you don't fight the waves, you ride them.
 
 ## Warnings
 
-This jailbreak is incomplete. This is not complete so please dont complain about it not working.
+This jailbreak is Beta. This is not complete so please dont complain about it not working.
 
 ## Beta Change log:
 
