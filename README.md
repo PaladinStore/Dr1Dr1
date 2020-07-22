@@ -1,7 +1,6 @@
 ##Dr1Dr1
 
-![Dr1Dr1 Page]
-(                      )
+[Dr1Dr1 Page]()
 
 A "incomplete" iOS jailbreak for 32-bit devices ( created by [PaladinStore](https://github.com/PaladinStore) )
 
