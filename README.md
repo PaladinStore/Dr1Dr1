@@ -1,6 +1,7 @@
-## nalu935
+##Dr1Dr1
 
-![Nalu logo](https://github.com/osxusr/nalu935/blob/master/32%20bit%20only%20iOS%209.3.5%20Jailbreak/Media.xcassets/AppIcon.appiconset/Icon-83.5%402x.png)
+![Dr1Dr1 Page]
+(                      )
 
 A "incomplete" iOS jailbreak for 32-bit devices ( created by [PaladinStore](https://github.com/PaladinStore) )
 
