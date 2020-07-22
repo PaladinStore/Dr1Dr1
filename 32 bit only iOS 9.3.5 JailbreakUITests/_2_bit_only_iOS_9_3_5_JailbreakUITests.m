@@ -1,6 +1,6 @@
 //
 //  _2_bit_only_iOS_13_5_JailbreakUITests.m
-//  32 bit only iOS 13.5 JailbreakUITests
+//  32 and 64 bits only iOS 13.5 JailbreakUITests
 //
 //  Created by PaladinStore on 2020-22-7.
 //  Copyright © 2020 PaladinStore. All rights reserved
