@@ -55,9 +55,9 @@ Beta 5: TBA
 
 | Version | Download |
 |---------|----------|
-| Beta 1  | [Link](http://www.mediafire.com/file/1fmybx7ssbnofiu/nalu935Beta1.ipa)
-| Beta 2  | [Link](http://www.mediafire.com/file/88eh666887i4ero/nalu935Beta2.ipa)
-| Beta 3  | [Link](http://www.mediafire.com/file/yj8yqdn7ftpcl9s/nalu935Beta3.ipa)
+| Beta 1  | [Link](https://www.mediafire.com/file/07tv3vke17ymok6/Dr1Dr1-Beta-1.ipa/file)
+| Beta 2  | [Link](https://www.mediafire.com/file/lqh5tcqr7eej3ho/Dr1Dr1-Beta-2.ipa/file)
+| Beta 3  | [Link](https://www.mediafire.com/file/a381vv0b8g6foqr/Dr1Dr1-Beta-3.ipa/file)
 | Beta 4  | TBA      |
 | Beta 5  | TBA      |
 
