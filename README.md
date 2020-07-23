@@ -2,7 +2,7 @@
 
 [Dr1Dr1 Page](https://dr1dr1.carrd.co/)
 
-A "Beta" iOS jailbreak for 32 and 64 bits devices ( created by [PaladinStore](https://github.com/PaladinStore) )
+A "Beta" iOS jailbreak for 32 bits devices ( created by [PaladinStore](https://github.com/PaladinStore) )
 
 Lets make a 32-Bit iOS 9.3.5 Jailbreak for all 32-Bit Devices
 
